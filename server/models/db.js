@@ -21,4 +21,4 @@ const checkDatabaseConnection = async () => {
   };
   console.log(`banan`)
 
-export {pool,checkDatabaseConnection}
+export {pool,checkDatabaseConnection}   

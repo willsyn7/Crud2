@@ -6,8 +6,7 @@ import spaceRoute from './routes/spacex.js';
 const APP = express();
 const PORT = 8080 ;
 
-
-
+console.log(`adsf`)
 checkDatabaseConnection()
 
 
